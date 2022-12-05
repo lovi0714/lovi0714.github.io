@@ -130,7 +130,7 @@ post-list:
 
 # for home layout
 home:
-  title: 이호인 기록장
+  title: 공부 기록장
   button_name: Home
   new_posts_title: 새로운 글
   new_posts_show_more_button: 더보기 ...
@@ -167,9 +167,8 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: 안녕하세요.
+  greetings: 안녕하세요
   welcome: 반갑습니다.
-  sample: 공부 기록장
 
 # for cookie consent
 cookie_consent:
