@@ -1,4 +1,5 @@
 # main links
+# 상단 메뉴바 (메뉴바 커스터마이징 할 때 사용한다.)
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
