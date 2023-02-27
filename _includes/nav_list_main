@@ -22,6 +22,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <span class="nav__sub-title">CS</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "CS" %}
+                        <li><a href="/categories/CS" class="">컴퓨터 구조({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
   </ul>
 </nav>
