@@ -10,8 +10,9 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2023-03-01
-last_modified_at: 2023-03-01
+published: true
+date: 2023-02-28
+last_modified_at: 2023-02-28
 ---
 
 # ✔ 트리거(Trigger)와 프로시저(Procedure)
