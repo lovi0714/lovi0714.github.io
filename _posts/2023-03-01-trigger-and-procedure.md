@@ -13,6 +13,7 @@ toc_sticky: true
 date: 2023-03-01
 last_modified_at: 2023-03-01
 ---
+
 # ✔ 트리거(Trigger)와 프로시저(Procedure)
 
 + '트리거를 건다', '프로시저'를 실행한다.
