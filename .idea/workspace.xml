@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdbc704c-0fc4-472b-84a8-d2dedb483a38" name="Changes" comment="" />
+    <list default="true" id="fdbc704c-0fc4-472b-84a8-d2dedb483a38" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-02-03-my-first-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-02-03-my-first-post.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,14 @@
       <workItem from="1676905550534" duration="8000" />
       <workItem from="1677077280722" duration="1134000" />
       <workItem from="1677589030354" duration="22000" />
+      <workItem from="1678004983641" duration="1779000" />
+      <workItem from="1678278832948" duration="28000" />
+      <workItem from="1679232688259" duration="17000" />
+      <workItem from="1680535109475" duration="597000" />
+      <workItem from="1681002223033" duration="591000" />
+      <workItem from="1681651011312" duration="6000" />
+      <workItem from="1682760658048" duration="6000" />
+      <workItem from="1684838212410" duration="8000" />
     </task>
     <servers />
   </component>
