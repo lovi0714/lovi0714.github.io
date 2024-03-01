@@ -44,7 +44,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "book" %}
-                        <li><a href="/categories/book/clean-code" class="">책읽기({{category[1].size}})</a></li>
+                        <li><a href="/categories/book" class="">책읽기({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>    
