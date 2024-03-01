@@ -43,11 +43,12 @@
         <span class="nav__sub-title">클린코드</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "book" %}
-                        <li><a href="/categories/book" class="">책읽기({{category[1].size}})</a></li>
+                    {% if category[0] == "clean-code" %}
+                        <li><a href="/categories/clean-code" class="">책읽기({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>    
+            
       </li>
   </ul>
 </nav>

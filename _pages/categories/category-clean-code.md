@@ -1,11 +1,11 @@
 ---
 title: "클린코드"
 layout: archive
-permalink: categories/book
+permalink: categories/clean-code
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.book %}
+{% assign posts = site.categories.clean-code %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
