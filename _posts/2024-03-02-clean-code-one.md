@@ -3,7 +3,7 @@ title : "클린코드 스터디"
 excerpt : "Day 1"
 
 categories:
-- book
+- clean-code
 tags:
 - [cleancode]
 
